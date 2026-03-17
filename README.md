@@ -4,7 +4,7 @@
 Practice designing stable locators based on DOM structure.
 
 ## What I practice
-- Based in https://the-internet.herokuapp.com/
+- Based on https://the-internet.herokuapp.com/
 - Critical Thinking in Locator Design
 - CSS vs XPath comparison
 - Handling dynamic elements
